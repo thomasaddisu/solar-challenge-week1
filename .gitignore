@@ -1,2 +1,2 @@
-# Ignore local virtual‑env
+# Ignore local virtual‑env (.myvenv)
 .myenv/
